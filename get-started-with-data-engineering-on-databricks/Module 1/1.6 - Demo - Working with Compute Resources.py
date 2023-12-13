@@ -71,6 +71,11 @@
 # COMMAND ----------
 
 # MAGIC %md
+# MAGIC #hello
+
+# COMMAND ----------
+
+# MAGIC %md
 # MAGIC ### Conclusion
 # MAGIC Now that we have created our compute resources, we can begin running notebooks and queries.
 
